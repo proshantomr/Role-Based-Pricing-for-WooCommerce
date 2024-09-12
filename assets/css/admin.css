@@ -1,0 +1,7 @@
+#add-role-form{
+    display: none;
+}
+#role_name_error{
+    display: none;
+    color: red;
+}
